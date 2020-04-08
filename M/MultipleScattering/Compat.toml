@@ -1,2 +1,7 @@
 [0]
+OffsetArrays = "0.0.0 - 1"
+ProgressMeter = "0.0.0 - 1"
+RecipesBase = "0.0.0 - 1"
+SpecialFunctions = "0.0.0 - 0.10"
+StaticArrays = "0.0.0 - 0.12"
 julia = "1"
